@@ -1,1 +1,7 @@
 This is the 1st file.
+
+Class Myclsss{
+	public statis void main(){
+		system.out('Hi');
+	}
+}
