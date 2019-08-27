@@ -3,5 +3,6 @@ This is the 1st file.
 Class Myclsss{
 	public statis void main(){
 		system.out.println('Hi');
+		system.out.println('Hello');
 	}
 }
